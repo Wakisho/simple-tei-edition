@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Recipes</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Some recipes. They include some types of bread and a cake. Probably from some kind of bakery recipe book.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>A paper page given as testing material for a workshop exercise.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+         <head>Oatmeal Bread</head>
+            <lg>
+               <l>2 cups oatmeal</l>
+               <l>1 large spoonful lard</l>
+               <l>1 cup dark molasses</l>
+               <l>1 1/2 cups hot water</l>
+               <l>2 cups cold water</l>
+               <l>1 yeast cake</l>
+               <l>White flour enough to make soft dough</l>
+            </lg>
+            </div>
+         <div>
+         <head>Oatmeal Cake</head>
+         <lg>
+            <l>1 cup oatmeal</l>
+            <l>2 cups boiling water</l>
+            <l>2 teaspoons butter</l>
+            <l>1/2 cup molasses</l>
+            <l>Let these soak together for one hour</l>
+            <l>Mix 1 yeast cake in 1/2 cup luke warmwater and add to first mixture</l>
+            <l>4 1/2 cups of flour sifted and added</l>
+            <l>Let it raise and bake</l>
+         </lg>
+         </div>
+         <div>
+         <head>Bran Bread</head>
+         <lg>
+            <l>5 cups whole wheat flour</l>
+            <l>4 cups Educator bran</l>
+            <l>2 1/2 cups molasses</l>
+            <l>2 1/2 cups milk</l>
+            <l>1 teaspoonful of salt</l>
+            <l>1 teaspoonful soda</l>
+            <l>Bake in moderate oven</l>
+         </lg>
+         </div>
+      </body>
+  </text>
+</TEI>
